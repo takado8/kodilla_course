@@ -2,3 +2,7 @@ com/kodilla/testing/Calculator/Calculator.java
  com.kodilla.testing.Calculator.Calculator
 com/kodilla/testing/TestingMain.java
  com.kodilla.testing.TestingMain
+com/kodilla/testing/user/SimpleUser.java
+ com.kodilla.testing.user.SimpleUser
+com/kodilla/testing/collection/OddNumbersExterminator.java
+ com.kodilla.testing.collection.OddNumbersExterminator
