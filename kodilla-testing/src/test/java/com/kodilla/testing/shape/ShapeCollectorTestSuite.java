@@ -144,7 +144,7 @@ public class ShapeCollectorTestSuite {
             // when
             var shapeNames = collector.showFigures();
             // than
-            assertEquals("", shapeNames);
+            assertEquals("[]", shapeNames);
         }
     }
 }
