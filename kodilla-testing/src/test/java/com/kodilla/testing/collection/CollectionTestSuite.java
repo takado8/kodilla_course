@@ -50,6 +50,8 @@ public class CollectionTestSuite {
         //Then
         for(var value : filteredList){
             Assertions.assertEquals(0, value % 2);
+
+//            Assertions.assertTrue(value % 2 == 0);
         }  // InteliJ poprawia assertTrue na assertEquals, jaka różnica?
     }
 }
