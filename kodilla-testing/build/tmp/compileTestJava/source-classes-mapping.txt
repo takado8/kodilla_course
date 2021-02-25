@@ -1,10 +1,16 @@
 com/kodilla/testing/forum/ForumTestSuite.java
  com.kodilla.testing.forum.ForumTestSuite
-com/kodilla/testing/collection/CollectionTestSuite.java
- com.kodilla.testing.collection.CollectionTestSuite
-com/kodilla/testing/forum/tdd/ForumTestSuite.java
- com.kodilla.testing.forum.tdd.ForumTestSuite
 com/kodilla/testing/shape/ShapeCollectorTestSuite.java
  com.kodilla.testing.shape.ShapeCollectorTestSuite
  com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests
  com.kodilla.testing.shape.ShapeCollectorTestSuite$ShapesTests
+com/kodilla/testing/collection/CollectionTestSuite.java
+ com.kodilla.testing.collection.CollectionTestSuite
+com/kodilla/testing/forum/tdd/ForumTestSuite.java
+ com.kodilla.testing.forum.tdd.ForumTestSuite
+com/kodilla/testing/weather/stub/TemperaturesStub.java
+ com.kodilla.testing.weather.stub.TemperaturesStub
+com/kodilla/testing/weather/stub/WeatherForecastTestSuite.java
+ com.kodilla.testing.weather.stub.WeatherForecastTestSuite
+com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java
+ com.kodilla.testing.weather.mock.WeatherForecastTestSuite
