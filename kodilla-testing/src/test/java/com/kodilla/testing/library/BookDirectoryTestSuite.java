@@ -84,7 +84,6 @@ class BookDirectoryTestSuite {
     void testListBooksInHandsOfWhenNoneBooks(){
         // Given
         BookLibrary bookLibrary = new BookLibrary(libraryDatabaseMock);
-        List<Book> resultListOf0Books = new ArrayList<>();
         LibraryUser user = new LibraryUser("Bob","Joe", "bobjoe123");
         // when
         var resultListOfBooks = bookLibrary.listBooksInHandsOf(user);

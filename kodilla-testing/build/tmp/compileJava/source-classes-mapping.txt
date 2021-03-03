@@ -30,7 +30,7 @@ com/kodilla/testing/library/Book.java
  com.kodilla.testing.library.Book
 com/kodilla/testing/library/LibraryUser.java
  com.kodilla.testing.library.LibraryUser
-com/kodilla/testing/library/BookLibrary.java
- com.kodilla.testing.library.BookLibrary
 com/kodilla/testing/library/LibraryDatabase.java
  com.kodilla.testing.library.LibraryDatabase
+com/kodilla/testing/library/BookLibrary.java
+ com.kodilla.testing.library.BookLibrary

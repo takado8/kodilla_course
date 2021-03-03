@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing.collection.CollectionTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-03T22:33:10" hostname="LAPTOP-LF601L0C" time="0.059">
+  <properties/>
+  <testcase name="test for empty list." classname="com.kodilla.testing.collection.CollectionTestSuite" time="0.009"/>
+  <testcase name="test for odd numbers filtering." classname="com.kodilla.testing.collection.CollectionTestSuite" time="0.049"/>
+  <system-out><![CDATA[Testing class OddNumbersExterminator:
+Test Case: begin
+Test Case: end
+Test Case: begin
+Test Case: end
+Finished testing class OddNumbersExterminator.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

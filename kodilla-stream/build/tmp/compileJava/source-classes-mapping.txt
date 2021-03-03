@@ -22,3 +22,5 @@ com/kodilla/stream/StreamMain.java
  com.kodilla.stream.StreamMain
 com/kodilla/stream/immutable/Book.java
  com.kodilla.stream.immutable.Book
+com/kodilla/stream/immutable/ForumUser.java
+ com.kodilla.stream.immutable.ForumUser

@@ -3,17 +3,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta http-equiv="x-ua-compatible" content="IE=edge"/>
-<title>Test results - Forum Test Suite</title>
+<title>Test results - Test Collector</title>
 <link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 <script src="../js/report.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="content">
-<h1>Forum Test Suite</h1>
+<h1>Test Collector</h1>
 <div class="breadcrumbs">
 <a href="../index.html">all</a> &gt; 
-<a href="../packages/com.kodilla.testing.forum.html">com.kodilla.testing.forum</a> &gt; ForumTestSuite</div>
+<a href="../packages/com.kodilla.testing.shape.html">com.kodilla.testing.shape</a> &gt; ShapeCollectorTestSuite$CollectorTests</div>
 <div id="summary">
 <table>
 <tr>
@@ -23,7 +23,7 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">2</div>
+<div class="counter">7</div>
 <p>tests</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.014s</div>
+<div class="counter">0.034s</div>
 <p>duration</p>
 </div>
 </td>
@@ -63,9 +63,6 @@
 <li>
 <a href="#tab0">Tests</a>
 </li>
-<li>
-<a href="#tab1">Standard output</a>
-</li>
 </ul>
 <div id="tab0" class="tab">
 <h2>Tests</h2>
@@ -79,31 +76,48 @@
 </tr>
 </thead>
 <tr>
-<td class="success">when create SimpleUser with realName, then getRealName should return real user name</td>
-<td class="success">testCaseRealName()</td>
-<td class="success">0.012s</td>
+<td class="success">Test addFigure</td>
+<td class="success">testAddFigure()</td>
+<td class="success">0.002s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
-<td class="success">when create SimpleUser with name, then getUsername should return correct name</td>
-<td class="success">testCaseUsername()</td>
+<td class="success">Test GetFigure</td>
+<td class="success">testGetFigure()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Test GetNonExistentFigure</td>
+<td class="success">testGetNonExistentFigure()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Test removeFigure</td>
+<td class="success">testRemoveFigure()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Test removeFigure</td>
+<td class="success">testRemoveNonExistentFigure()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Test showFigures</td>
+<td class="success">testShowFigures()</td>
+<td class="success">0.025s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Test showFigures with empty list</td>
+<td class="success">testShowFiguresEmpty()</td>
 <td class="success">0.002s</td>
 <td class="success">passed</td>
 </tr>
 </table>
-</div>
-<div id="tab1" class="tab">
-<h2>Standard output</h2>
-<span class="code">
-<pre>Test Suite: begin
-Test Case: begin
-Testing John Smith
-Test Case: end
-Test Case: begin
-Test Case: end
-Test Suite: end
-</pre>
-</span>
 </div>
 </div>
 <div id="footer">
