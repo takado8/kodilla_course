@@ -14,17 +14,18 @@ public class WorldTestSuite {
     void testGetPeopleQuantity() {
         // given
         // europe
-        Country pl = new Country();
-        Country de = new Country();
-        Country uk = new Country();
+        var nb_of_people = BigDecimal.ONE;
+        Country pl = new Country(nb_of_people);
+        Country de = new Country(nb_of_people);
+        Country uk = new Country(nb_of_people);
         List<Country> countries_eu = new ArrayList<>();
         countries_eu.add(pl);
         countries_eu.add(de);
         countries_eu.add(uk);
         Continent europe = new Continent(countries_eu);
         // asia
-        Country china = new Country();
-        Country japan = new Country();
+        Country china = new Country(nb_of_people);
+        Country japan = new Country(nb_of_people);
         List<Country> countries_asia = new ArrayList<>();
         countries_asia.add(china);
         countries_asia.add(japan);
