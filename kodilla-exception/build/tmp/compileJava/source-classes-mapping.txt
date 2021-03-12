@@ -1,0 +1,6 @@
+com/kodilla/exception/io/FileReader.java
+ com.kodilla.exception.io.FileReader
+com/kodilla/exception/main/ExceptionModuleRunner.java
+ com.kodilla.exception.main.ExceptionModuleRunner
+com/kodilla/exception/test/FirstChallenge.java
+ com.kodilla.exception.test.FirstChallenge
