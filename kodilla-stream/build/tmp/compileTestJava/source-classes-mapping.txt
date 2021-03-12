@@ -10,3 +10,5 @@ com/kodilla/stream/book/BookTestSuite.java
  com.kodilla.stream.book.BookTestSuite
 com/kodilla/stream/world/WorldTestSuite.java
  com.kodilla.stream.world.WorldTestSuite
+com/kodilla/stream/portfolio/BoardTestSuite.java
+ com.kodilla.stream.portfolio.BoardTestSuite

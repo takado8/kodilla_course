@@ -54,6 +54,14 @@ com/kodilla/stream/world/Continent.java
  com.kodilla.stream.world.Continent
 com/kodilla/stream/array/ArrayOperations.java
  com.kodilla.stream.array.ArrayOperations
+com/kodilla/stream/portfolio/Board.java
+ com.kodilla.stream.portfolio.Board
+com/kodilla/stream/portfolio/TaskList.java
+ com.kodilla.stream.portfolio.TaskList
+com/kodilla/stream/portfolio/Task.java
+ com.kodilla.stream.portfolio.Task
+com/kodilla/stream/portfolio/User.java
+ com.kodilla.stream.portfolio.User
 com/kodilla/stream/world/Country.java
  com.kodilla.stream.world.Country
 com/kodilla/stream/world/World.java
