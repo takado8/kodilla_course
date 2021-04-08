@@ -1,40 +1,44 @@
-com/kodilla/good/patterns/PatternsMain.java
- com.kodilla.good.patterns.PatternsMain
-com/kodilla/good/patterns/challenges/MovieStore.java
- com.kodilla.good.patterns.challenges.MovieStore
 com/kodilla/good/patterns/challenges/food2door/order/OrderImpl.java
  com.kodilla.good.patterns.challenges.food2door.order.OrderImpl
+com/kodilla/good/patterns/challenges/food2door/producer/OrderService.java
+ com.kodilla.good.patterns.challenges.food2door.producer.OrderService
 com/kodilla/good/patterns/challenges/order/User.java
  com.kodilla.good.patterns.challenges.order.User
 com/kodilla/good/patterns/challenges/order/ProductOrderProcessor.java
  com.kodilla.good.patterns.challenges.order.ProductOrderProcessor
 com/kodilla/good/patterns/challenges/food2door/order/Order.java
  com.kodilla.good.patterns.challenges.food2door.order.Order
-com/kodilla/good/patterns/challenges/order/ProductOrderService.java
- com.kodilla.good.patterns.challenges.order.ProductOrderService
-com/kodilla/good/patterns/challenges/food2door/order/result/OrderResultImpl.java
- com.kodilla.good.patterns.challenges.food2door.order.result.OrderResultImpl
+com/kodilla/good/patterns/challenges/food2door/producer/HealthyShop.java
+ com.kodilla.good.patterns.challenges.food2door.producer.HealthyShop
+com/kodilla/good/patterns/challenges/food2door/food2doorMain.java
+ com.kodilla.good.patterns.challenges.food2door.food2doorMain
+com/kodilla/good/patterns/challenges/food2door/producer/Producer.java
+ com.kodilla.good.patterns.challenges.food2door.producer.Producer
 com/kodilla/good/patterns/challenges/food2door/order/result/OrderResult.java
  com.kodilla.good.patterns.challenges.food2door.order.result.OrderResult
 com/kodilla/good/patterns/challenges/order/InformationService.java
  com.kodilla.good.patterns.challenges.order.InformationService
-com/kodilla/good/patterns/challenges/food2door/product/Product.java
- com.kodilla.good.patterns.challenges.food2door.product.Product
 com/kodilla/good/patterns/challenges/order/Order.java
  com.kodilla.good.patterns.challenges.order.Order
 com/kodilla/good/patterns/challenges/food2door/product/Constants.java
  com.kodilla.good.patterns.challenges.food2door.product.Constants
 com/kodilla/good/patterns/challenges/order/Product.java
  com.kodilla.good.patterns.challenges.order.Product
+com/kodilla/good/patterns/challenges/food2door/order/OrderExecutor.java
+ com.kodilla.good.patterns.challenges.food2door.order.OrderExecutor
 com/kodilla/good/patterns/challenges/food2door/product/Carrot.java
  com.kodilla.good.patterns.challenges.food2door.product.Carrot
-com/kodilla/good/patterns/challenges/food2door/order/OrderProcessor.java
- com.kodilla.good.patterns.challenges.food2door.order.OrderProcessor
+com/kodilla/good/patterns/challenges/food2door/product/Lettuce.java
+ com.kodilla.good.patterns.challenges.food2door.product.Lettuce
+com/kodilla/good/patterns/PatternsMain.java
+ com.kodilla.good.patterns.PatternsMain
+com/kodilla/good/patterns/challenges/food2door/order/result/OrderResultImpl.java
+ com.kodilla.good.patterns.challenges.food2door.order.result.OrderResultImpl
 com/kodilla/good/patterns/challenges/food2door/producer/ExtraFoodShop.java
  com.kodilla.good.patterns.challenges.food2door.producer.ExtraFoodShop
-com/kodilla/good/patterns/challenges/food2door/producer/Producer.java
- com.kodilla.good.patterns.challenges.food2door.producer.Producer
-com/kodilla/good/patterns/challenges/food2door/order/OrderService.java
- com.kodilla.good.patterns.challenges.food2door.order.OrderService
-com/kodilla/good/patterns/challenges/food2door/food2doorMain.java
- com.kodilla.good.patterns.challenges.food2door.food2doorMain
+com/kodilla/good/patterns/challenges/order/ProductOrderService.java
+ com.kodilla.good.patterns.challenges.order.ProductOrderService
+com/kodilla/good/patterns/challenges/food2door/product/Product.java
+ com.kodilla.good.patterns.challenges.food2door.product.Product
+com/kodilla/good/patterns/challenges/MovieStore.java
+ com.kodilla.good.patterns.challenges.MovieStore
