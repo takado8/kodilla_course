@@ -1,0 +1,2 @@
+com/kodilla/good/patterns/challenges/flight_searcher/FlightSearcherTestSuite.java
+ com.kodilla.good.patterns.challenges.flight_searcher.FlightSearcherTestSuite
