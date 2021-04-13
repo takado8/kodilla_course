@@ -18,13 +18,8 @@ public class FlightSearcher {
     }
 
     public List<ConnectingFlight> findConnectingFlight(String departureAirport, String arrivalAirport, List<Flight> flights) {
-        var flightsFrom = flights.stream()
-                .filter(flight -> flight.getDepartureAirport().equals(departureAirport))
-                .collect(Collectors.toList());
-
-        var flightsTo = flights.stream()
-                .filter(flight -> flight.getArrivalAirport().equals(arrivalAirport))
-                .collect(Collectors.toList());
+        var flightsFrom = findFlightsFrom(departureAirport, flights);
+        var flightsTo = findFlightsTo(arrivalAirport, flights);
 
         List<ConnectingFlight> connectingFlights = new ArrayList<>();
 
