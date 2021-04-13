@@ -14,8 +14,19 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/kodilla-exception" />
             <option value="$PROJECT_DIR$/kodilla-good-patterns" />
+            <option value="$PROJECT_DIR$/kodilla-spring" />
             <option value="$PROJECT_DIR$/kodilla-stream" />
             <option value="$PROJECT_DIR$/kodilla-testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-6.8.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-spring" />
           </set>
         </option>
       </GradleProjectSettings>
