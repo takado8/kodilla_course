@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class CalculatorTestSuite {
     @Autowired
     private Calculator calculator;
-    
+
     @Test
     void testCalculations(){
         assertEquals(4, calculator.add(2, 2));
