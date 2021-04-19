@@ -56,3 +56,28 @@ com/kodilla/patterns/strategy/social/publishers/FacebookPublisher.java
  com.kodilla.patterns.strategy.social.publishers.FacebookPublisher
 com/kodilla/patterns/strategy/social/ZGeneration.java
  com.kodilla.patterns.strategy.social.ZGeneration
+com/kodilla/patterns/factory/Square.java
+ com.kodilla.patterns.factory.Square
+com/kodilla/patterns/factory/Rectangle.java
+ com.kodilla.patterns.factory.Rectangle
+com/kodilla/patterns/factory/Shape.java
+ com.kodilla.patterns.factory.Shape
+com/kodilla/patterns/factory/Circle.java
+ com.kodilla.patterns.factory.Circle
+com/kodilla/patterns/factory/ShapeFactory.java
+ com.kodilla.patterns.factory.ShapeFactory
+com/kodilla/patterns/factory/tasks/ShoppingTask.java
+ com.kodilla.patterns.factory.tasks.ShoppingTask
+com/kodilla/patterns/factory/tasks/Task.java
+ com.kodilla.patterns.factory.tasks.Task
+com/kodilla/patterns/factory/tasks/TaskType.java
+ com.kodilla.patterns.factory.tasks.TaskType
+com/kodilla/patterns/factory/tasks/PaintingTask.java
+ com.kodilla.patterns.factory.tasks.PaintingTask
+com/kodilla/patterns/factory/tasks/TaskAbs.java
+ com.kodilla.patterns.factory.tasks.TaskAbs
+com/kodilla/patterns/factory/tasks/TaskFactory.java
+ com.kodilla.patterns.factory.tasks.TaskFactory
+ com.kodilla.patterns.factory.tasks.TaskFactory$1
+com/kodilla/patterns/factory/tasks/DrivingTask.java
+ com.kodilla.patterns.factory.tasks.DrivingTask
