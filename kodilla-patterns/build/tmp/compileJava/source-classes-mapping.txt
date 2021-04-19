@@ -24,3 +24,35 @@ com/kodilla/patterns/prototype/library/Library.java
  com.kodilla.patterns.prototype.library.Library
 com/kodilla/patterns/prototype/Board.java
  com.kodilla.patterns.prototype.Board
+com/kodilla/patterns/strategy/Customer.java
+ com.kodilla.patterns.strategy.Customer
+com/kodilla/patterns/strategy/IndividualCustomer.java
+ com.kodilla.patterns.strategy.IndividualCustomer
+com/kodilla/patterns/strategy/predictors/BalancedPredictor.java
+ com.kodilla.patterns.strategy.predictors.BalancedPredictor
+com/kodilla/patterns/strategy/predictors/AggressivePredictor.java
+ com.kodilla.patterns.strategy.predictors.AggressivePredictor
+com/kodilla/patterns/strategy/BuyPredictor.java
+ com.kodilla.patterns.strategy.BuyPredictor
+com/kodilla/patterns/strategy/IndividualYoungCustomer.java
+ com.kodilla.patterns.strategy.IndividualYoungCustomer
+com/kodilla/patterns/strategy/predictors/ConservativePredictor.java
+ com.kodilla.patterns.strategy.predictors.ConservativePredictor
+com/kodilla/patterns/strategy/CorporateCustomer.java
+ com.kodilla.patterns.strategy.CorporateCustomer
+com/kodilla/patterns/strategy/social/User.java
+ com.kodilla.patterns.strategy.social.User
+com/kodilla/patterns/strategy/social/publishers/TwitterPublisher.java
+ com.kodilla.patterns.strategy.social.publishers.TwitterPublisher
+com/kodilla/patterns/strategy/social/publishers/SnapchatPublisher.java
+ com.kodilla.patterns.strategy.social.publishers.SnapchatPublisher
+com/kodilla/patterns/strategy/social/Millenials.java
+ com.kodilla.patterns.strategy.social.Millenials
+com/kodilla/patterns/strategy/social/YGeneration.java
+ com.kodilla.patterns.strategy.social.YGeneration
+com/kodilla/patterns/strategy/social/publishers/SocialPublisher.java
+ com.kodilla.patterns.strategy.social.publishers.SocialPublisher
+com/kodilla/patterns/strategy/social/publishers/FacebookPublisher.java
+ com.kodilla.patterns.strategy.social.publishers.FacebookPublisher
+com/kodilla/patterns/strategy/social/ZGeneration.java
+ com.kodilla.patterns.strategy.social.ZGeneration
