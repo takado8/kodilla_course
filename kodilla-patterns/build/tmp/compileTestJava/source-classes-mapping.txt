@@ -14,3 +14,9 @@ com/kodilla/patterns/factory/ShapeFactoryTestSuite.java
  com.kodilla.patterns.factory.ShapeFactoryTestSuite
 com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java
  com.kodilla.patterns.factory.tasks.TaskFactoryTestSuite
+com/kodilla/patterns/builder/bigmac/BigmacTestSuite.java
+ com.kodilla.patterns.builder.bigmac.BigmacTestSuite
+com/kodilla/patterns/builder/checkers/CheckersTestSuite.java
+ com.kodilla.patterns.builder.checkers.CheckersTestSuite
+com/kodilla/patterns/builder/pizza/PizzaTestSuite.java
+ com.kodilla.patterns.builder.pizza.PizzaTestSuite
