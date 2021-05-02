@@ -1,0 +1,3 @@
+…[Flight{id=0, departureAirport='WARSAW', arrivalAirport='BERLIN'}, Flight{id=2, departureAirport='WARSAW', arrivalAirport='PARIS'}]
+D[Flight{id=5, departureAirport='BERLIN', arrivalAirport='LONDON'}]
+i[ConnectingFlight{id=12, departureAirport='WARSAW', arrivalAirport='LONDON', transitAirports=[BERLIN]}]

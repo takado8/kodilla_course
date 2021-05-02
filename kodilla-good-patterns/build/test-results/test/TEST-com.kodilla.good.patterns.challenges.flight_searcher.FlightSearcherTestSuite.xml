@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.good.patterns.challenges.flight_searcher.FlightSearcherTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-02T17:16:33" hostname="LAPTOP-LF601L0C" time="0.067">
+  <properties/>
+  <testcase name="testFindFlightsFrom()" classname="com.kodilla.good.patterns.challenges.flight_searcher.FlightSearcherTestSuite" time="0.049"/>
+  <testcase name="testFindFlightsTo()" classname="com.kodilla.good.patterns.challenges.flight_searcher.FlightSearcherTestSuite" time="0.002"/>
+  <testcase name="testFindConnectingFlights()" classname="com.kodilla.good.patterns.challenges.flight_searcher.FlightSearcherTestSuite" time="0.015"/>
+  <system-out><![CDATA[[Flight{id=0, departureAirport='WARSAW', arrivalAirport='BERLIN'}, Flight{id=2, departureAirport='WARSAW', arrivalAirport='PARIS'}]
+[Flight{id=5, departureAirport='BERLIN', arrivalAirport='LONDON'}]
+[ConnectingFlight{id=12, departureAirport='WARSAW', arrivalAirport='LONDON', transitAirports=[BERLIN]}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
