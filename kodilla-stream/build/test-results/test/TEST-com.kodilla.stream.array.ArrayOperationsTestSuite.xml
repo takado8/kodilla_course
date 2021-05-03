@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.stream.array.ArrayOperationsTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-03T14:57:45" hostname="LAPTOP-LF601L0C" time="0.041">
+  <properties/>
+  <testcase name="testGetAverage()" classname="com.kodilla.stream.array.ArrayOperationsTestSuite" time="0.041"/>
+  <system-out><![CDATA[1
+2
+3
+4
+5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test Collector" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-03T22:33:10" hostname="LAPTOP-LF601L0C" time="0.043">
+<testsuite name="Test Collector" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-05-03T14:57:47" hostname="LAPTOP-LF601L0C" time="0.021">
   <properties/>
   <testcase name="Test showFigures with empty list" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.002"/>
-  <testcase name="Test showFigures" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.025"/>
-  <testcase name="Test removeFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.001"/>
+  <testcase name="Test showFigures" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.011"/>
+  <testcase name="Test removeFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.0"/>
   <testcase name="Test GetNonExistentFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.001"/>
-  <testcase name="Test addFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.002"/>
+  <testcase name="Test addFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.001"/>
   <testcase name="Test GetFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.001"/>
-  <testcase name="Test removeFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.002"/>
+  <testcase name="Test removeFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite$CollectorTests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

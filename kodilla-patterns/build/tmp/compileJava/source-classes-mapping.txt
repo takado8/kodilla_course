@@ -24,8 +24,9 @@ com/kodilla/patterns/builder/checkers/Pawn.java
  com.kodilla.patterns.builder.checkers.Pawn
 com/kodilla/patterns/factory/tasks/TaskType.java
  com.kodilla.patterns.factory.tasks.TaskType
-com/kodilla/patterns/prototype/library/Library.java
- com.kodilla.patterns.prototype.library.Library
+com/kodilla/patterns/builder/bigmac/Bigmac.java
+ com.kodilla.patterns.builder.bigmac.Bigmac
+ com.kodilla.patterns.builder.bigmac.Bigmac$BigmacBuilder
 com/kodilla/patterns/strategy/social/publishers/TwitterPublisher.java
  com.kodilla.patterns.strategy.social.publishers.TwitterPublisher
 com/kodilla/patterns/factory/Square.java
@@ -97,6 +98,5 @@ com/kodilla/patterns/builder/checkers/Checkers.java
 com/kodilla/patterns/builder/pizza/Pizza.java
  com.kodilla.patterns.builder.pizza.Pizza
  com.kodilla.patterns.builder.pizza.Pizza$PizzaBuilder
-com/kodilla/patterns/builder/bigmac/Bigmac.java
- com.kodilla.patterns.builder.bigmac.Bigmac
- com.kodilla.patterns.builder.bigmac.Bigmac$BigmacBuilder
+com/kodilla/patterns/prototype/library/Library.java
+ com.kodilla.patterns.prototype.library.Library

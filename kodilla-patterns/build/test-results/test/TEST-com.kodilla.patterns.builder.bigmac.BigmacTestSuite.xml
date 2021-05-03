@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.patterns.builder.bigmac.BigmacTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-03T14:57:29" hostname="LAPTOP-LF601L0C" time="0.041">
+  <properties/>
+  <testcase name="testBigmacBuilderSauce()" classname="com.kodilla.patterns.builder.bigmac.BigmacTestSuite" time="0.038"/>
+  <testcase name="testBigmacBuilderNoBunNull()" classname="com.kodilla.patterns.builder.bigmac.BigmacTestSuite" time="0.001"/>
+  <testcase name="testBigmacBuilderIngredientsNb()" classname="com.kodilla.patterns.builder.bigmac.BigmacTestSuite" time="0.001"/>
+  <system-out><![CDATA[Bigmac{burgers=2, bun='classic', sauce='BBQ', ingredients=[lettuce, pickle, onion]}
+Burger must have buns selected.
+null
+Bigmac{burgers=2, bun='classic', sauce='BBQ', ingredients=[lettuce, pickle, onion]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
