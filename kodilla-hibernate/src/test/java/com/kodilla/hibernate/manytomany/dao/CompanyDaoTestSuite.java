@@ -14,6 +14,44 @@ class CompanyDaoTestSuite {
     @Autowired
     private CompanyDao companyDao;
 
+    @Autowired
+    private EmployeeDao employeeDao;
+
+    @Test
+    void getCompanyBySubstring(){
+        //given
+        Company company1 = new Company("company1");
+        Company company2 = new Company("aaaacompany2");
+        //when
+        companyDao.save(company1);
+        companyDao.save(company2);
+        var companies = companyDao.getCompanyByFirst3Chars("com");
+        //then
+        assertNotEquals(0, companies.size());
+        assertEquals(company1.getName(), companies.get(0).getName());
+        // after cleanup
+        companyDao.delete(company1);
+        companyDao.delete(company2);
+    }
+
+    @Test
+    void getEmployeeByName(){
+        //Given
+        Employee johnSmith = new Employee("John", "Smith");
+        Employee stephanieClarckson = new Employee("Stephanie", "Clarckson");
+        //When
+        employeeDao.save(johnSmith);
+        employeeDao.save(stephanieClarckson);
+        var employeesByName = employeeDao.getEmployeeByName(johnSmith.getLastname());
+        //then
+        assertEquals(1, employeesByName.size());
+
+        //cleanup after
+        employeeDao.delete(johnSmith);
+        employeeDao.delete(stephanieClarckson);
+
+    }
+
     @Test
     void testSaveManyToMany() {
         //Given
@@ -51,12 +89,12 @@ class CompanyDaoTestSuite {
         assertNotEquals(0, greyMatterId);
 
         //CleanUp
-        //try {
-        //    companyDao.deleteById(softwareMachineId);
-        //    companyDao.deleteById(dataMaestersId);
-        //    companyDao.deleteById(greyMatterId);
-        //} catch (Exception e) {
-        //    //do nothing
-        //}
+        try {
+            companyDao.deleteById(softwareMachineId);
+            companyDao.deleteById(dataMaestersId);
+            companyDao.deleteById(greyMatterId);
+        } catch (Exception e) {
+            //do nothing
+        }
     }
 }
