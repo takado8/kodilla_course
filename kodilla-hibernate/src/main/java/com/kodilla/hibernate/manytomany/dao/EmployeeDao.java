@@ -8,5 +8,6 @@ import java.util.List;
 
 public interface EmployeeDao extends CrudRepository<Employee, Integer> {
     List<Employee> getEmployeeByName(@Param("NAME") String name);
+    List<Employee> getEmployeeByAnyPartOfLastname(@Param("ARG") String name);
 
 }

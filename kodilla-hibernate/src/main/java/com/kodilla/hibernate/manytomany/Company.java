@@ -6,6 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+//@NamedQueries(
+@NamedQuery(
+        name = "Company.getCompanyByAny3Chars",
+        query = "FROM Company WHERE name LIKE concat('%',:ARG, '%')"
+
+)
 @NamedNativeQuery(
         name = "Company.getCompanyByFirst3Chars",
         query = "SELECT * FROM COMPANIES WHERE SUBSTRING(COMPANY_NAME, 1, 3) = :CHARS",
