@@ -8,3 +8,7 @@ com/kodilla/patterns2/aop/calculator/CalculatorTestSuite.java
  com.kodilla.patterns2.aop.calculator.CalculatorTestSuite
 com/kodilla/patterns2/facade/ShopServiceTestSuite.java
  com.kodilla.patterns2.facade.ShopServiceTestSuite
+com/kodilla/patterns2/observer/forum/ForumTopicTestSuite.java
+ com.kodilla.patterns2.observer.forum.ForumTopicTestSuite
+com/kodilla/patterns2/observer/homework/HomeworkTestSuite.java
+ com.kodilla.patterns2.observer.homework.HomeworkTestSuite
