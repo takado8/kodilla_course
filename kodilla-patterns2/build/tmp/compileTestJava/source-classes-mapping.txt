@@ -10,5 +10,9 @@ com/kodilla/patterns2/facade/ShopServiceTestSuite.java
  com.kodilla.patterns2.facade.ShopServiceTestSuite
 com/kodilla/patterns2/observer/forum/ForumTopicTestSuite.java
  com.kodilla.patterns2.observer.forum.ForumTopicTestSuite
+com/kodilla/patterns2/adapter/company/SalaryAdapterTestSuite.java
+ com.kodilla.patterns2.adapter.company.SalaryAdapterTestSuite
 com/kodilla/patterns2/observer/homework/HomeworkTestSuite.java
  com.kodilla.patterns2.observer.homework.HomeworkTestSuite
+com/kodilla/patterns2/adapter/bookclassifier/MedianAdapterTestSuite.java
+ com.kodilla.patterns2.adapter.bookclassifier.MedianAdapterTestSuite
