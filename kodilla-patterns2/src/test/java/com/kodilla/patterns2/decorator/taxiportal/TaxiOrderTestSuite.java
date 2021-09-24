@@ -91,7 +91,7 @@ public class TaxiOrderTestSuite {
     public void testUberWithTwoChildSeatsGetDescription() {
         //Given
         TaxiOrder order = new BasicTaxiOrder();
-        order = new UberNetworkOrderDecorator(order);
+        order = new MyTaxiNetworkOrderDecorator(order);
         order = new ChildSeatDecorator(order);
         order = new ChildSeatDecorator(order);
         //When
