@@ -16,7 +16,7 @@ public class FacebookTestingApp {
     public static final String MONTH_OF_BIRTH = "/html/body/div[3]/div[2]/div/div/div[2]/div/div/div[1]/form/div[1]/div[5]/div[2]/span/span/select[2]";
     public static final String YEAR_OF_BIRTH = "/html/body/div[3]/div[2]/div/div/div[2]/div/div/div[1]/form/div[1]/div[5]/div[2]/span/span/select[3]";
 
-    
+
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver = WebDriverConfig.getDriver(WebDriverConfig.CHROME);

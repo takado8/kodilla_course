@@ -1,4 +1,4 @@
-package crudapp;
+package com.kodilla.testing2.crudapp;
 
 import config.WebDriverConfig;
 import org.openqa.selenium.By;
